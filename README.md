@@ -1,3 +1,7 @@
 # imgui-opengl-template
 
-Add glfw3.lib to the path vendor\glfw
+## Libraries Used
+
+- **GLFW**:  3.4 
+- **ImGui**:  1.90.8
+- **GLAD**
